@@ -1,6 +1,6 @@
 {
-  "name": "meanjs",
-  "description": "Fullstack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
+  "name": "debatearena",
+  "description": "debate, web app, webRTC, node, mongoose, mean",
   "homepage": "http://meanjs.org/",
   "license": "MIT",
   "dependencies": {
